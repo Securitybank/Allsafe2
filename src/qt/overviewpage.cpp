@@ -214,3 +214,16 @@ void OverviewPage::on_pushButton_4_clicked()
     QString link="https://twitter.com/allsafetoken";
       QDesktopServices::openUrl(QUrl(link));
 }
+
+void OverviewPage::on_pushButton_2_clicked()
+{
+    QString link="http://explorer.allsafetoken.com:3001";
+          QDesktopServices::openUrl(QUrl(link));
+
+}
+
+void OverviewPage::on_pushButton_5_clicked()
+{
+    QString link="https://novaexchange.com/market/BTC_ASAFE2/";
+          QDesktopServices::openUrl(QUrl(link));
+}

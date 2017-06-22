@@ -53,6 +53,7 @@
 		<file alias="a2">res/images/a2.png</file>
 		<file alias="a3">res/images/a3.png</file>
 		<file alias="a4">res/images/a4.png</file>
+		<file alias="a5">res/images/a5.png</file>
 		<file alias="splash">res/images/splash.png</file>
     </qresource>
     <qresource prefix="/movies">
