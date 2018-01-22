@@ -4,7 +4,9 @@ This is the official github repository for Allsafe2. Allsafe is a medium of exch
 We are open to your ideas for this coin.
 
 Website:
-https://allsafetoken.com/
+https://allsafetoken.pw/
+Block explorer:
+http://explorer.allsafetoken.pw:3001/
 
 ## Coin Specifications
 
@@ -15,5 +17,5 @@ https://allsafetoken.com/
 | Stake Maximum Age | `unlimited` |
 | Stake Reward | `15% per year` |
 | Matures | `15 confirmations` |
-| RPC Port | `9240` |
+| RPC Port | `30244` |
 | Algo | `Scrypt Full POS` |
